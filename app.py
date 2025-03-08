@@ -1,3 +1,2 @@
-print("example for git")
+print("added new line")
 
-print("hello")
